@@ -1,2 +1,2 @@
-# KBC-Quiz-Miniature
-Similar to Who Wants to Be a Millionaire American Television Game
+# KBC -Kaun Banega Crorepati
+It is a core Java game, Similar to Who Wants to Be a Millionaire American Television game but based on an Indian television show that has the best animation possible in Core Java. It contains 5000+ Lines of code and this project is created just for learning purposes or you can also improve your quizzing skills. This Core Java project has some amazing concepts Like Random questions, All Lifelines that work fine,30 seconds to give answers, and many more...
